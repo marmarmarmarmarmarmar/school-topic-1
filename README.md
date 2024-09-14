@@ -1,1 +1,1 @@
-# school-topic-1
+school-topic-1
