@@ -1,0 +1,15 @@
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\bin\Debug\net8.0\topic-1-tutorial.exe
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\bin\Debug\net8.0\topic-1-tutorial.deps.json
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\bin\Debug\net8.0\topic-1-tutorial.runtimeconfig.json
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\bin\Debug\net8.0\topic-1-tutorial.dll
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\bin\Debug\net8.0\topic-1-tutorial.pdb
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.AssemblyInfoInputs.cache
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.AssemblyInfo.cs
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.sourcelink.json
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.dll
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\refint\topic-1-tutorial.dll
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.pdb
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\topic-1-tutorial.genruntimeconfig.cache
+C:\Users\aaa\Documents\repo\school-topic-1\topic-1-tutorial\obj\Debug\net8.0\ref\topic-1-tutorial.dll
